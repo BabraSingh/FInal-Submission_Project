@@ -1,4 +1,4 @@
-# FInal-Submission_Project
+# Final-Submission_Project
 College Project
 
 Following are the points mentioned in the description:
