@@ -1,4 +1,4 @@
-# Final-Submission_Project
+# Diabete Prediction
 College Project
 
 Following are the points mentioned in the description:
